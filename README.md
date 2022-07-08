@@ -1,0 +1,3 @@
+# 100daysofcode 
+This is the start of my challenge! Today I wanted to do something simple like asking for a name and age on the screen using 2 variables. As well as prompt and document.write...
+Happy coding! 👨‍💻
